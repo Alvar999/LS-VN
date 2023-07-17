@@ -1,0 +1,12 @@
+./includes/Gta.pwn(15292) : ・裝趾褊韃 208: 渼 ・・糺・銛・・頌・・銛褪・ ・・髜・粱褊韃・ 竟頽韋籵浯 ・髜碚・./includes/Gta.pwn(15506) : ・裝趾褊韃 208: 渼 ・・糺・銛・・頌・・銛褪・ ・・髜・粱褊韃・ 竟頽韋籵浯 ・髜碚・./includes/Gta.pwn(29451) : ・裝趾褊韃: ・・ ・GiftPlayer
+./includes/Gta.pwn(18812) : ・裝趾褊韃: ・・ ・SetPlayerSpawn
+./includes/Gta.pwn(15042) : ・裝趾褊韃: ・・ ・CuffTackled
+C:\Users\MyPC\Desktop\GM\GM\pawno\include\YSI\y_amx.inc(264) : ・裝趾褊韃: ・・ ・AMX_GetGlobal
+./includes/Gta.pwn(26629) : ・裝趾褊韃: ・・ ・SendCallToQueue
+./includes/Gta.pwn(26216) : ・裝趾褊韃: ・・ ・SendReportToQue
+./includes/Gta.pwn(8909) : ・裝趾褊韃: ・・ ・PokerRotateActivePlayer
+ﾄ・ ⅳ・湜 糺粽萵 ・韜: #pragma disablerecursion
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+ﾏ蔘・褂蒟湜・9.
